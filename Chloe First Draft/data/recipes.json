@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Apple Cinnamon Oatmeal Muffins",
+    "category": "breakfast",
+    "description": "Cozy muffins with apples and warming spices.",
+    "prepTime": "25 min",
+    "difficulty": "easy",
+    "featured": true,
+    "image": "https://www.milehighmitts.com/wp-content/uploads/2019/10/applecinnamonoatmuffins3-768x1152.jpg",
+    "ingredients": ["2 cups rolled oats","1 cup milk","1 apple, diced","1 egg","2 tbsp maple syrup","1 tsp cinnamon","1 tsp baking powder"],
+    "instructions": ["Preheat oven to 180°C (350°F).","Mix dry and wet ingredients separately then combine.","Spoon into muffin tin and bake 15–18 minutes." ]
+  },
+  {
+    "id": "2",
+    "title": "Lemon Herb Roast Chicken",
+    "category": "dinner",
+    "description": "A simple, roast chicken with lemon and herbs.",
+    "prepTime": "1 hr 20 min",
+    "difficulty": "medium",
+    "featured": true,
+    "image": "https://s23209.pcdn.co/wp-content/uploads/2018/06/211129_DAMN-DELICIOUS_Lemon-Herb-Roasted-Chx_059-760x1140.jpg",
+    "ingredients": ["1 whole chicken","2 lemons","Fresh rosemary","Olive oil","Salt & pepper"],
+    "instructions": ["Preheat oven to 200°C (400°F).","Season chicken and roast 1 hour until juices run clear.","Rest 10 minutes before carving."]
+  },
+  {
+    "id": "3",
+    "title": "Simple Chocolate Brownies",
+    "category": "dessert",
+    "description": "Fudgy brownies, quick and reliable.",
+    "prepTime": "45 min",
+    "difficulty": "easy",
+    "featured": false,
+    "image": "https://twocupsflour.com/wp-content/uploads/2019/06/web-brownies-189.jpg",
+    "ingredients": ["200g dark chocolate","150g butter","200g sugar","3 eggs","100g flour"],
+    "instructions": ["Preheat oven to 180°C (350°F).","Melt chocolate and butter, whisk in sugar and eggs, fold in flour.","Pour in pan and bake 20–25 minutes."]
+  }
+]
