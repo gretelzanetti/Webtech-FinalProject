@@ -35,4 +35,30 @@
     "ingredients": ["200g dark chocolate","150g butter","200g sugar","3 eggs","100g flour"],
     "instructions": ["Preheat oven to 180°C (350°F).","Melt chocolate and butter, whisk in sugar and eggs, fold in flour.","Pour in pan and bake 20–25 minutes."]
   }
+  ,
+  {
+    "id": "4",
+    "title": "Taiwanese Scallion Pancakes",
+    "category": "lunch",
+    "description": "Extra-crispy, flaky scallion pancakes — pan-fried flatbreads layered with scallions and oil.",
+    "prepTime": "1 hr 10 min",
+    "difficulty": "medium",
+    "featured": false,
+    "image": "https://lh6.googleusercontent.com/CGB1aGLyX2lSy0PQaMnVxVLSx9376VBYuylbOB-Dzo7y_9GjnGufZjlmpjS3pCO4aNiSAFEHr_Rxb_2NVtSF7TSP1txP_xr9yq-p0OmLg9bWgaQ3h34L7ZderfwGfa0I577MPiIm",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3/4 cup warm water (approx)",
+      "1/2 tsp salt",
+      "4-5 scallions, finely chopped",
+      "2–3 tbsp neutral oil (for layers)",
+      "Vegetable oil for frying"
+    ],
+    "instructions": [
+      "Mix the flour and salt in a bowl. Gradually add warm water and mix until a rough dough forms.",
+      "Knead the dough on a lightly floured surface 5–8 minutes until smooth. Cover and let rest 20–30 minutes.",
+      "Divide the dough into 4 equal pieces. Roll one piece into a thin rectangle.",
+      "Brush a thin layer of oil over the dough, sprinkle with chopped scallions, then roll up tightly into a log and coil it into a round. Flatten gently and roll into a thin pancake.",
+      "Heat a thin layer of vegetable oil in a skillet over medium-high heat. Fry each pancake until golden and crisp on both sides, about 2–3 minutes per side. Press gently while frying for even contact.",
+      "Drain on paper towels and serve hot, torn into wedges or whole with soy dipping sauce."]
+  }
 ]

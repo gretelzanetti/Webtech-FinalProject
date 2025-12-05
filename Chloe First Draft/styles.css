@@ -80,6 +80,12 @@ body{
 .instructions li{margin:6px 0}
 .instructions a{color:var(--accent-2);text-decoration:underline}
 
+/* Meet Marie card tweaks */
+.meet-marie{display:grid;grid-template-columns:120px 1fr;gap:16px;align-items:center;padding:16px;border-radius:12px}
+.meet-marie img{width:120px;height:120px;object-fit:cover;border-radius:10px;border:3px solid rgba(217,154,134,0.12);box-shadow:0 6px 18px var(--shadow)}
+.meet-marie h3{margin:0;font-size:1.1rem}
+.meet-marie p{margin:6px 0;color:var(--muted)}
+
 /* Larger visual emphasis for recipe detail images */
 .recipe-detail img{border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.08)}
 
