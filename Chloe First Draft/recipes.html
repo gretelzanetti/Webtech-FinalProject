@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Marie Cuisine — Recipes</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav">
+        <div class="logo">Marie Cuisine</div>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="recipes.html">Recipes</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <div class="nav-actions">
+          <input id="search-input" class="search" placeholder="Search recipes or ingredients…" />
+          <button id="dark-toggle" aria-label="Toggle dark mode">🌓</button>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="controls">
+        <div class="filters">
+          <label>Category:
+            <select id="category-filter">
+              <option value="all">All</option>
+              <option value="breakfast">Breakfast</option>
+              <option value="lunch">Lunch</option>
+              <option value="dinner">Dinner</option>
+              <option value="dessert">Dessert</option>
+              <option value="healthy">Healthy</option>
+              <option value="quick">Quick</option>
+            </select>
+          </label>
+          <label>Difficulty:
+            <select id="difficulty-filter">
+              <option value="all">All</option>
+              <option value="easy">Easy</option>
+              <option value="medium">Medium</option>
+              <option value="hard">Hard</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section>
+        <div id="recipes-grid" class="grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; Marie Cuisine</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
